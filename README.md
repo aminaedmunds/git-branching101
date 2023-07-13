@@ -12,19 +12,6 @@ Welcome, budding coder! :seedling: This workshop is all about *git branching and
 - To understand git flow and implement git branching to work collaboratively. 
 
 
-## :clipboard: GETTING STARTED 
-
-:rocket: Ready for lift-off? Let's set up:
-
-1. `git clone workshop-repo-url`
-2. `cd into-your-repo`
-
-And once you've conquered the tasks:
-
-1. Commit your changes with `git commit -m "Workshop Completed!"`
-2. Push 'em up with `git push origin your-branch-name`
-3. Make a pull request so we can marvel at your genius! :brain: :boom:
-
 ## :books: PRE-LEARNING SECTION
 
 Put on your learning cap! :mortar_board: Here are some resources to get you up to speed:
