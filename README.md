@@ -4,11 +4,9 @@ Git branching allows us to make changes and commits to code without affecting th
 
 GitHub pull requests signify the intention to merge in code. In a pull request you can have a conversation about whether the code should be merged in, as well as seeing exactly what files have been changed. Once you merge in the pull request on GitHub, you will need to pull down the updated branches to updated your local repository.
 
-Remember that you can use resources online such as the GitHub Git cheat sheet and articles online such as what Git branches are, how to check out a new branch, and more - Google will help you find loads of Git resources out there!
-
 ## :bulb: OBJECTIVES FOR THE WORKSHOP
 
-Welcome, budding coder! :seedling: This workshop is all about *object_name*! Here's a glimpse of what you'll be dabbling in:
+Welcome, budding coder! :seedling: This workshop is all about *git branching and git flow*! Here's a glimpse of what you'll be dabbling in:
 
 - To understand version control and how git works.
 - To understand git flow and implement git branching to work collaboratively. 
@@ -32,9 +30,8 @@ And once you've conquered the tasks:
 
 Put on your learning cap! :mortar_board: Here are some resources to get you up to speed:
 
-1. **Git Branching**: [What is git branching](https://www.w3schools.com/git/git_branch.asp?remote=github), [Checkout a new branch](https://www.w3docs.com/learn-git/git-checkout.html#checking-out-new-branches-8), [GitHub Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
-2. **Topic 2**: [Document 2](doc_link), [Tutorial 2](tutorial_link), [Video 2](video_link)
-3. **Topic 3**: [Document 3](doc_link), [Tutorial 3](tutorial_link), [Video 3](video_link)
+1. **How does git work**: [What is git?](https://www.w3schools.com/git/git_branch.asp?remote=github), [How does git work?](https://www.w3docs.com/learn-git/git-checkout.html#checking-out-new-branches-8), [What is a gitflow?](https://education.github.com/git-cheat-sheet-education.pdf) 
+2. **Git Branching**: [What is git branching](https://www.w3schools.com/git/git_branch.asp?remote=github), [Checkout a new branch](https://www.w3docs.com/learn-git/git-checkout.html#checking-out-new-branches-8), [GitHub Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
 
 Remember, it's a journey, not a race! Take your time, digest the info and ask questions if you're stuck.
 
@@ -55,7 +52,7 @@ Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 - Merge your pull requests in, one at a time.
 - Checkout and pull down the updated main branch.
 
-**HINT**: [Document 1](doc_link)
+**HINT**: [Branching and Merging](doc_link)
 
 ### Ticket 2 - Dealing with Conflicts!
 
@@ -65,7 +62,7 @@ Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 - You can do this on GitHub or in vs code.
 - Try one way, then repeat the exercise trying the other way.,
 
-**HINT**: [Tutorial 1](tutorial_link)
+**HINT**: [Common merge conflicts and how to solve them!](tutorial_link)
 
 ### Ticket 3 - Collaborating with Code!
 
@@ -76,7 +73,7 @@ Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 - Plan what you will work on to avoid conflicts
 - Resolve any conflicts that emerge
 
-**HINT**: [Tutorial 1](tutorial_link)
+**HINT**: [Working on a project silmutaneously!](tutorial_link)
 
 And remember, Google is your BFF! Don't be shy to use it! :woman_technologist:
 
