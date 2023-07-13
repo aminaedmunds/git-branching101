@@ -18,7 +18,6 @@ Welcome, budding coder! :seedling: This workshop is all about *git branching and
 
 1. `git clone workshop-repo-url`
 2. `cd into-your-repo`
-3. `npm install` to get all those juicy packages!
 
 And once you've conquered the tasks:
 
