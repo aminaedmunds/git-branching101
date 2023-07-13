@@ -34,11 +34,11 @@ Put on your learning cap! :mortar_board: Here are some resources to get you up t
 
 Remember, it's a journey, not a race! Take your time, digest the info and ask questions if you're stuck.
 
-## :ticket: TICKETS 
+## 🎟️: TICKETS 
 
 Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 
-### Ticket 1  - Branching off and Merging in!
+### 🎫Ticket 1  - Branching off and Merging in!
 
 **Tasks**: 
 
@@ -53,7 +53,7 @@ Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 
 **HINT**: [Branching and Merging](doc_link)
 
-### Ticket 2 - Dealing with Conflicts!
+### 🎫Ticket 2 - Dealing with Conflicts!
 
 **Tasks**: 
 - Do the same as before, until you have made pull requests, except this time, both change the same lines of code in `task-2.md`.
@@ -63,7 +63,7 @@ Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 
 **HINT**: [Common merge conflicts and how to solve them!](tutorial_link)
 
-### Ticket 3 - Collaborating with Code!
+### 🎫Ticket 3 - Collaborating with Code!
 
 **Tasks**: 
 
