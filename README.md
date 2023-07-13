@@ -1,22 +1,20 @@
-# README-TEMPLATE
+# Git Branching
 
-## :bulb: OBJECTS FOR THE WORKSHOP
+Git branching allows us to make changes and commits to code without affecting the main branch. When you branch off, you create a copy of the code. You can then make the changes you need and commit them to your branch. Once you're happy with the changes, you can then 'merge' them back into the main branch (or the sub-branch that you started from) by making a pull request on git hub.
+
+GitHub pull requests signify the intention to merge in code. In a pull request you can have a conversation about whether the code should be merged in, as well as seeing exactly what files have been changed. Once you merge in the pull request on GitHub, you will need to pull down the updated branches to updated your local repository.
+
+Remember that you can use resources online such as the GitHub Git cheat sheet and articles online such as what Git branches are, how to check out a new branch, and more - Google will help you find loads of Git resources out there!
+
+## :bulb: OBJECTIVES FOR THE WORKSHOP
 
 Welcome, budding coder! :seedling: This workshop is all about *object_name*! Here's a glimpse of what you'll be dabbling in:
 
-- Object 1: Brief description here
-- Object 2: Brief description here
-- Object 3: Brief description here
+- To understand version control and how git works.
+- To understand git flow and implement git branching to work collaboratively. 
 
-## :dart: SUCCESS CRITERIA
 
-Woohoo! :tada: You've aced this workshop if you can:
-
-1. Criteria 1: Detail here
-2. Criteria 2: Detail here
-3. Criteria 3: Detail here
-
-## :clipboard: BRIEF 
+## :clipboard: GETTING STARTED 
 
 :rocket: Ready for lift-off? Let's set up:
 
@@ -34,7 +32,7 @@ And once you've conquered the tasks:
 
 Put on your learning cap! :mortar_board: Here are some resources to get you up to speed:
 
-1. **Topic 1**: [Document 1](doc_link), [Tutorial 1](tutorial_link), [Video 1](video_link)
+1. **Git Branching**: [What is git branching](https://www.w3schools.com/git/git_branch.asp?remote=github), [Checkout a new branch](https://www.w3docs.com/learn-git/git-checkout.html#checking-out-new-branches-8), [GitHub Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
 2. **Topic 2**: [Document 2](doc_link), [Tutorial 2](tutorial_link), [Video 2](video_link)
 3. **Topic 3**: [Document 3](doc_link), [Tutorial 3](tutorial_link), [Video 3](video_link)
 
@@ -44,17 +42,41 @@ Remember, it's a journey, not a race! Take your time, digest the info and ask qu
 
 Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 
-### Ticket 1
+### Ticket 1  - Branching off and Merging in!
 
-**Task**: [Task Details](task_link), **Refer**: [Document 1](doc_link)
+**Tasks**: 
 
-### Ticket 2
+- Both people in the pair pull down the repo.
+- Each make a new branch.
+- Decide who is Person 1 and 2, and write a sentence about your favorite moment of SOC so far in `task-1.md`.
+- Add and commit your changes to your branch, and push the branch up to GitHub
+- On GitHub, create a pull request for each of your branches
+- Look through the pull request and see whats changed, leave some comments.
+- Merge your pull requests in, one at a time.
+- Checkout and pull down the updated main branch.
 
-**Task**: [Task Details](task_link), **Refer**: [Tutorial 1](tutorial_link)
+**HINT**: [Document 1](doc_link)
 
-### Ticket 3
+### Ticket 2 - Dealing with Conflicts!
 
-**Task**: [Task Details](task_link), **Refer**: [Video 1](video_link)
+**Tasks**: 
+- Do the same as before, until you have made pull requests, except this time, both change the same lines of code in `task-2.md`.
+- This will give you merge conflicts that will need resolving.
+- You can do this on GitHub or in vs code.
+- Try one way, then repeat the exercise trying the other way.,
+
+**HINT**: [Tutorial 1](tutorial_link)
+
+### Ticket 3 - Collaborating with Code!
+
+**Tasks**: 
+
+- Create a web simple page together in `task-3.html`
+- Use branching
+- Plan what you will work on to avoid conflicts
+- Resolve any conflicts that emerge
+
+**HINT**: [Tutorial 1](tutorial_link)
 
 And remember, Google is your BFF! Don't be shy to use it! :woman_technologist:
 
@@ -82,6 +104,5 @@ Hungry for more? :fork_and_knife: Dive into these resources to expand your knowl
 
 - [Advanced Document](doc_link)
 - [Follow-up Tutorial](tutorial_link)
-- [In-depth Video](video_link)
-
+- [FreeCodeCamp: Git Branching Video](video_link)
 Keep coding, keep exploring, and remember, the sky is the limit! :rocket:
