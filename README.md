@@ -81,15 +81,15 @@ And remember, Google is your BFF! Don't be shy to use it! :woman_technologist:
 
 Uh-oh, run into a wall? :brick: Don't worry, we've all been there! Here are some common issues and their solutions:
 
-### Issue 1
+### Issue 1: "Fatal Not a Git Repository" Error
 
 **Solution**: Solution 1
 
-### Issue 2
+### Issue 2:  "Failed to Push Some Refs" Error
 
 **Solution**: Solution 2
 
-### Issue 3
+### Issue 3: "Branch Already Exists" Error
 
 **Solution**: Solution 3
 
